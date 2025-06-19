@@ -1,4 +1,4 @@
-# system-design-interview-practice
+# System-Design-Interview-Practice
 
 
 ## Languages - Python, Java
@@ -63,6 +63,20 @@ Link → https://lnkd.in/guiYR6mn
 ➤How will you design a Vending Machine in Java?
 
 Link → https://lnkd.in/gKGeR_S4
+
+
+
+## C. Resources
+
+i. Alex Xu - System Design Volume I & II , System Design in Machine Learning 
+
+ii. Orielly Data Intensive System Design
+
+iii. HelloInterview
+
+iv.  Grokking System Design Interview
+
+
 
 
 
